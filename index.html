@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hello Cocos2d-JS</title>
+</head>
+<body>
+<img src="" alt="">
+    <canvas id="gameCanvas" width="720" height="1280"></canvas>
+    <script type="text/javascript" src="cocos2d-js-v3.13.js" charset="UTF-8"></script>
+    <script type="text/javascript">
+        window.onload = function(){
+            cc.game.onStart = function(){
+                //load resources
+                cc.LoaderScene.preload(myArray, function () { //["res/bg.jpg"]  myArray
+                    /*var MyScene = cc.Scene.extend({
+                        layer:null,
+                        onEnter:function () {
+                            this._super();
+                            var size = cc.director.getWinSize();
+                            var sprite = cc.Sprite.create("res/bg.jpg");
+                            sprite.setPosition(size.width / 2, size.height / 2);
+                            sprite.setScale(0.8);
+                            this.addChild(sprite, 0);
+
+
+                            var label = cc.LabelTTF.create("Hello World", "Arial", 40);
+                            label.setPosition(size.width / 2, size.height / 2);
+                            this.addChild(label, 1);
+
+                            this.layer = new cc.Layer();
+                            this.addChild(this.layer);
+                            cc.eventManager.addListener({
+                                event: cc.EventListener.MOUSE,
+                                onMouseDown: this._onMouseDown.bind(this)
+                            },this.layer);
+
+                        },
+
+                        _onMouseDown:function (event) {
+                            console.log("_onMouseDown");
+                        }
+                    });*/
+                    //cc.director.runScene(new MyScene());
+
+                    cc.director.runScene(new GameScene());
+                }, this);
+            };
+        cc.game.run("gameCanvas");
+    };
+</script>
+</body>
+</html>

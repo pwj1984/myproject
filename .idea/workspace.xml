@@ -1,0 +1,986 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e5cbde3b-6ea9-4ad4-9eb5-bf725971dc37" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" column="6" lean-forward="false" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cocos2d-js-v3.13.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cocos2d-js-v3.13.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#49#0" expanded="false" />
+                <element signature="e#220588#221029#0" expanded="false" />
+                <element signature="e#221076#221555#0" expanded="false" />
+                <element signature="e#221803#222607#0" expanded="false" />
+                <element signature="e#222650#222704#0" expanded="false" />
+                <element signature="e#222753#223484#0" expanded="false" />
+                <element signature="e#223545#224167#0" expanded="false" />
+                <element signature="e#224226#225199#0" expanded="false" />
+                <element signature="e#225248#225999#0" expanded="false" />
+                <element signature="e#226073#226566#0" expanded="false" />
+                <element signature="e#226633#227125#0" expanded="false" />
+                <element signature="e#227184#227745#0" expanded="false" />
+                <element signature="e#227803#227874#0" expanded="false" />
+                <element signature="e#227922#229588#0" expanded="false" />
+                <element signature="e#229629#230924#0" expanded="false" />
+                <element signature="e#230966#231978#0" expanded="false" />
+                <element signature="e#232034#233833#0" expanded="false" />
+                <element signature="e#233877#235238#0" expanded="false" />
+                <element signature="e#235305#236217#0" expanded="false" />
+                <element signature="e#236281#236520#0" expanded="false" />
+                <element signature="e#236585#236855#0" expanded="false" />
+                <element signature="e#236931#238590#0" expanded="false" />
+                <element signature="e#238635#238888#0" expanded="false" />
+                <element signature="e#240957#240986#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameScene.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/GameScene.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="227" column="0" lean-forward="true" selection-start-line="226" selection-start-column="6" selection-end-line="227" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameUi.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/GameUi.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1403">
+              <caret line="61" column="4" lean-forward="false" selection-start-line="61" selection-start-column="4" selection-end-line="61" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Constant.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Constant.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="11" column="41" lean-forward="true" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Storage.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Storage.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="1" column="4" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>project.json</find>
+      <find>cc._loaderImage</find>
+      <find>cc.eventManager</find>
+      <find>addListener</find>
+      <find>layer</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/build.xml" />
+        <option value="$PROJECT_DIR$/main.html" />
+        <option value="$PROJECT_DIR$/res/resource.js" />
+        <option value="$PROJECT_DIR$/src/Candy.js" />
+        <option value="$PROJECT_DIR$/src/GameScene2.js" />
+        <option value="$PROJECT_DIR$/cocos2d-js-v3.13.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/src/GameUi.js" />
+        <option value="$PROJECT_DIR$/project.json" />
+        <option value="$PROJECT_DIR$/src/Storage.js" />
+        <option value="$PROJECT_DIR$/src/GameScene.js" />
+        <option value="$PROJECT_DIR$/src/Constant.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1452" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="tes1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tes1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tes1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tes1" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tes1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tes1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test2" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\html5\cocos2d-js-v3.13\project\tes1\res" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\html5\cocos2d-js-v3.13\project\tes1" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.main.html">
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration name="main.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/tes1/main.html" />
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.main.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5cbde3b-6ea9-4ad4-9eb5-bf725971dc37" name="Default" comment="" />
+      <created>1499752602999</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1499752602999</updated>
+      <workItem from="1499752604560" duration="6572000" />
+      <workItem from="1499828147203" duration="816000" />
+      <workItem from="1500043750951" duration="990000" />
+      <workItem from="1500290906593" duration="178000" />
+      <workItem from="1502864651363" duration="2601000" />
+      <workItem from="1503038709571" duration="61000" />
+      <workItem from="1503038854491" duration="20141000" />
+      <workItem from="1503129480783" duration="1191000" />
+      <workItem from="1503384199207" duration="7538000" />
+      <workItem from="1503461334675" duration="28931000" />
+      <workItem from="1503550455568" duration="3810000" />
+      <workItem from="1503560564268" duration="230000" />
+      <workItem from="1503560844464" duration="20239000" />
+      <workItem from="1503725510053" duration="3772000" />
+      <workItem from="1503729395023" duration="140000" />
+      <workItem from="1503743958973" duration="1756000" />
+      <workItem from="1503750673803" duration="8798000" />
+      <workItem from="1503819039465" duration="25686000" />
+      <workItem from="1503903887742" duration="1814000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="135264000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="7" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39895698" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/cocos2d-js-v3.13.js</url>
+          <line>88669</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/cocos2d-js-v3.13.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219696">
+          <caret line="9552" column="25" lean-forward="true" selection-start-line="9552" selection-start-column="25" selection-end-line="9552" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#49#0" expanded="false" />
+            <element signature="e#220588#221029#0" expanded="false" />
+            <element signature="e#221076#221555#0" expanded="false" />
+            <element signature="e#221803#222607#0" expanded="false" />
+            <element signature="e#222650#222704#0" expanded="false" />
+            <element signature="e#222753#223484#0" expanded="false" />
+            <element signature="e#223545#224167#0" expanded="false" />
+            <element signature="e#224226#225199#0" expanded="false" />
+            <element signature="e#225248#225999#0" expanded="false" />
+            <element signature="e#226073#226566#0" expanded="false" />
+            <element signature="e#226633#227125#0" expanded="false" />
+            <element signature="e#227184#227745#0" expanded="false" />
+            <element signature="e#227803#227874#0" expanded="false" />
+            <element signature="e#227922#229588#0" expanded="false" />
+            <element signature="e#229629#230924#0" expanded="false" />
+            <element signature="e#230966#231978#0" expanded="false" />
+            <element signature="e#232034#233833#0" expanded="false" />
+            <element signature="e#233877#235238#0" expanded="false" />
+            <element signature="e#235305#236217#0" expanded="false" />
+            <element signature="e#236281#236520#0" expanded="false" />
+            <element signature="e#236585#236855#0" expanded="false" />
+            <element signature="e#236931#238590#0" expanded="false" />
+            <element signature="e#238635#238888#0" expanded="false" />
+            <element signature="e#240957#240986#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="75" lean-forward="true" selection-start-line="5" selection-start-column="75" selection-end-line="5" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/resource.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GameScene.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="6" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Candy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cocos2d-js-v3.13.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44643">
+          <caret line="1941" column="0" lean-forward="false" selection-start-line="1941" selection-start-column="0" selection-end-line="1941" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#49#0" expanded="false" />
+            <element signature="e#220588#221029#0" expanded="false" />
+            <element signature="e#221076#221555#0" expanded="false" />
+            <element signature="e#221803#222607#0" expanded="false" />
+            <element signature="e#222650#222704#0" expanded="false" />
+            <element signature="e#222753#223484#0" expanded="false" />
+            <element signature="e#223545#224167#0" expanded="false" />
+            <element signature="e#224226#225199#0" expanded="false" />
+            <element signature="e#225248#225999#0" expanded="false" />
+            <element signature="e#226073#226566#0" expanded="false" />
+            <element signature="e#226633#227125#0" expanded="false" />
+            <element signature="e#227184#227745#0" expanded="false" />
+            <element signature="e#227803#227874#0" expanded="false" />
+            <element signature="e#227922#229588#0" expanded="false" />
+            <element signature="e#229629#230924#0" expanded="false" />
+            <element signature="e#230966#231978#0" expanded="false" />
+            <element signature="e#232034#233833#0" expanded="false" />
+            <element signature="e#233877#235238#0" expanded="false" />
+            <element signature="e#235305#236217#0" expanded="false" />
+            <element signature="e#236281#236520#0" expanded="false" />
+            <element signature="e#236585#236855#0" expanded="false" />
+            <element signature="e#236931#238590#0" expanded="false" />
+            <element signature="e#238635#238888#0" expanded="false" />
+            <element signature="e#240957#240986#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/resource.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GameScene.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="28" lean-forward="false" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cocos2d-js-v3.13.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44643">
+          <caret line="1941" column="0" lean-forward="false" selection-start-line="1941" selection-start-column="0" selection-end-line="1941" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#49#0" expanded="false" />
+            <element signature="e#220588#221029#0" expanded="false" />
+            <element signature="e#221076#221555#0" expanded="false" />
+            <element signature="e#221803#222607#0" expanded="false" />
+            <element signature="e#222650#222704#0" expanded="false" />
+            <element signature="e#222753#223484#0" expanded="false" />
+            <element signature="e#223545#224167#0" expanded="false" />
+            <element signature="e#224226#225199#0" expanded="false" />
+            <element signature="e#225248#225999#0" expanded="false" />
+            <element signature="e#226073#226566#0" expanded="false" />
+            <element signature="e#226633#227125#0" expanded="false" />
+            <element signature="e#227184#227745#0" expanded="false" />
+            <element signature="e#227803#227874#0" expanded="false" />
+            <element signature="e#227922#229588#0" expanded="false" />
+            <element signature="e#229629#230924#0" expanded="false" />
+            <element signature="e#230966#231978#0" expanded="false" />
+            <element signature="e#232034#233833#0" expanded="false" />
+            <element signature="e#233877#235238#0" expanded="false" />
+            <element signature="e#235305#236217#0" expanded="false" />
+            <element signature="e#236281#236520#0" expanded="false" />
+            <element signature="e#236585#236855#0" expanded="false" />
+            <element signature="e#236931#238590#0" expanded="false" />
+            <element signature="e#238635#238888#0" expanded="false" />
+            <element signature="e#240957#240986#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/resource.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GameScene.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="82" lean-forward="true" selection-start-line="9" selection-start-column="82" selection-end-line="9" selection-end-column="82" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cocos2d-js-v3.13.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2039548">
+          <caret line="88676" column="40" lean-forward="false" selection-start-line="88676" selection-start-column="40" selection-end-line="88676" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#49#0" expanded="false" />
+            <element signature="e#220588#221029#0" expanded="false" />
+            <element signature="e#221076#221555#0" expanded="false" />
+            <element signature="e#221803#222607#0" expanded="false" />
+            <element signature="e#222650#222704#0" expanded="false" />
+            <element signature="e#222753#223484#0" expanded="false" />
+            <element signature="e#223545#224167#0" expanded="false" />
+            <element signature="e#224226#225199#0" expanded="false" />
+            <element signature="e#225248#225999#0" expanded="false" />
+            <element signature="e#226073#226566#0" expanded="false" />
+            <element signature="e#226633#227125#0" expanded="false" />
+            <element signature="e#227184#227745#0" expanded="false" />
+            <element signature="e#227803#227874#0" expanded="false" />
+            <element signature="e#227922#229588#0" expanded="false" />
+            <element signature="e#229629#230924#0" expanded="false" />
+            <element signature="e#230966#231978#0" expanded="false" />
+            <element signature="e#232034#233833#0" expanded="false" />
+            <element signature="e#233877#235238#0" expanded="false" />
+            <element signature="e#235305#236217#0" expanded="false" />
+            <element signature="e#236281#236520#0" expanded="false" />
+            <element signature="e#236585#236855#0" expanded="false" />
+            <element signature="e#236931#238590#0" expanded="false" />
+            <element signature="e#238635#238888#0" expanded="false" />
+            <element signature="e#240957#240986#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cocos2d-js-v3.13.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2039548">
+          <caret line="88676" column="40" lean-forward="false" selection-start-line="88676" selection-start-column="40" selection-end-line="88676" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#49#0" expanded="false" />
+            <element signature="e#220588#221029#0" expanded="false" />
+            <element signature="e#221076#221555#0" expanded="false" />
+            <element signature="e#221803#222607#0" expanded="false" />
+            <element signature="e#222650#222704#0" expanded="false" />
+            <element signature="e#222753#223484#0" expanded="false" />
+            <element signature="e#223545#224167#0" expanded="false" />
+            <element signature="e#224226#225199#0" expanded="false" />
+            <element signature="e#225248#225999#0" expanded="false" />
+            <element signature="e#226073#226566#0" expanded="false" />
+            <element signature="e#226633#227125#0" expanded="false" />
+            <element signature="e#227184#227745#0" expanded="false" />
+            <element signature="e#227803#227874#0" expanded="false" />
+            <element signature="e#227922#229588#0" expanded="false" />
+            <element signature="e#229629#230924#0" expanded="false" />
+            <element signature="e#230966#231978#0" expanded="false" />
+            <element signature="e#232034#233833#0" expanded="false" />
+            <element signature="e#233877#235238#0" expanded="false" />
+            <element signature="e#235305#236217#0" expanded="false" />
+            <element signature="e#236281#236520#0" expanded="false" />
+            <element signature="e#236585#236855#0" expanded="false" />
+            <element signature="e#236931#238590#0" expanded="false" />
+            <element signature="e#238635#238888#0" expanded="false" />
+            <element signature="e#240957#240986#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="805">
+          <caret line="35" column="7" lean-forward="true" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cocos2d-js-v3.13.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2039548">
+          <caret line="88676" column="40" lean-forward="false" selection-start-line="88676" selection-start-column="40" selection-end-line="88676" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#49#0" expanded="false" />
+            <element signature="e#220588#221029#0" expanded="false" />
+            <element signature="e#221076#221555#0" expanded="false" />
+            <element signature="e#221803#222607#0" expanded="false" />
+            <element signature="e#222650#222704#0" expanded="false" />
+            <element signature="e#222753#223484#0" expanded="false" />
+            <element signature="e#223545#224167#0" expanded="false" />
+            <element signature="e#224226#225199#0" expanded="false" />
+            <element signature="e#225248#225999#0" expanded="false" />
+            <element signature="e#226073#226566#0" expanded="false" />
+            <element signature="e#226633#227125#0" expanded="false" />
+            <element signature="e#227184#227745#0" expanded="false" />
+            <element signature="e#227803#227874#0" expanded="false" />
+            <element signature="e#227922#229588#0" expanded="false" />
+            <element signature="e#229629#230924#0" expanded="false" />
+            <element signature="e#230966#231978#0" expanded="false" />
+            <element signature="e#232034#233833#0" expanded="false" />
+            <element signature="e#233877#235238#0" expanded="false" />
+            <element signature="e#235305#236217#0" expanded="false" />
+            <element signature="e#236281#236520#0" expanded="false" />
+            <element signature="e#236585#236855#0" expanded="false" />
+            <element signature="e#236931#238590#0" expanded="false" />
+            <element signature="e#238635#238888#0" expanded="false" />
+            <element signature="e#240957#240986#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cocos2d-js-v3.13.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1684844">
+          <caret line="88676" column="40" lean-forward="false" selection-start-line="88676" selection-start-column="40" selection-end-line="88676" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#49#0" expanded="false" />
+            <element signature="e#220588#221029#0" expanded="false" />
+            <element signature="e#221076#221555#0" expanded="false" />
+            <element signature="e#221803#222607#0" expanded="false" />
+            <element signature="e#222650#222704#0" expanded="false" />
+            <element signature="e#222753#223484#0" expanded="false" />
+            <element signature="e#223545#224167#0" expanded="false" />
+            <element signature="e#224226#225199#0" expanded="false" />
+            <element signature="e#225248#225999#0" expanded="false" />
+            <element signature="e#226073#226566#0" expanded="false" />
+            <element signature="e#226633#227125#0" expanded="false" />
+            <element signature="e#227184#227745#0" expanded="false" />
+            <element signature="e#227803#227874#0" expanded="false" />
+            <element signature="e#227922#229588#0" expanded="false" />
+            <element signature="e#229629#230924#0" expanded="false" />
+            <element signature="e#230966#231978#0" expanded="false" />
+            <element signature="e#232034#233833#0" expanded="false" />
+            <element signature="e#233877#235238#0" expanded="false" />
+            <element signature="e#235305#236217#0" expanded="false" />
+            <element signature="e#236281#236520#0" expanded="false" />
+            <element signature="e#236585#236855#0" expanded="false" />
+            <element signature="e#236931#238590#0" expanded="false" />
+            <element signature="e#238635#238888#0" expanded="false" />
+            <element signature="e#240957#240986#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cocos2d-js-v3.13.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1684844">
+          <caret line="88676" column="40" lean-forward="false" selection-start-line="88676" selection-start-column="40" selection-end-line="88676" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#49#0" expanded="false" />
+            <element signature="e#220588#221029#0" expanded="false" />
+            <element signature="e#221076#221555#0" expanded="false" />
+            <element signature="e#221803#222607#0" expanded="false" />
+            <element signature="e#222650#222704#0" expanded="false" />
+            <element signature="e#222753#223484#0" expanded="false" />
+            <element signature="e#223545#224167#0" expanded="false" />
+            <element signature="e#224226#225199#0" expanded="false" />
+            <element signature="e#225248#225999#0" expanded="false" />
+            <element signature="e#226073#226566#0" expanded="false" />
+            <element signature="e#226633#227125#0" expanded="false" />
+            <element signature="e#227184#227745#0" expanded="false" />
+            <element signature="e#227803#227874#0" expanded="false" />
+            <element signature="e#227922#229588#0" expanded="false" />
+            <element signature="e#229629#230924#0" expanded="false" />
+            <element signature="e#230966#231978#0" expanded="false" />
+            <element signature="e#232034#233833#0" expanded="false" />
+            <element signature="e#233877#235238#0" expanded="false" />
+            <element signature="e#235305#236217#0" expanded="false" />
+            <element signature="e#236281#236520#0" expanded="false" />
+            <element signature="e#236585#236855#0" expanded="false" />
+            <element signature="e#236931#238590#0" expanded="false" />
+            <element signature="e#238635#238888#0" expanded="false" />
+            <element signature="e#240957#240986#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.html" />
+    <entry file="file://$PROJECT_DIR$/cocos2d-js-v3.13.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#49#0" expanded="false" />
+            <element signature="e#220588#221029#0" expanded="false" />
+            <element signature="e#221076#221555#0" expanded="false" />
+            <element signature="e#221803#222607#0" expanded="false" />
+            <element signature="e#222650#222704#0" expanded="false" />
+            <element signature="e#222753#223484#0" expanded="false" />
+            <element signature="e#223545#224167#0" expanded="false" />
+            <element signature="e#224226#225199#0" expanded="false" />
+            <element signature="e#225248#225999#0" expanded="false" />
+            <element signature="e#226073#226566#0" expanded="false" />
+            <element signature="e#226633#227125#0" expanded="false" />
+            <element signature="e#227184#227745#0" expanded="false" />
+            <element signature="e#227803#227874#0" expanded="false" />
+            <element signature="e#227922#229588#0" expanded="false" />
+            <element signature="e#229629#230924#0" expanded="false" />
+            <element signature="e#230966#231978#0" expanded="false" />
+            <element signature="e#232034#233833#0" expanded="false" />
+            <element signature="e#233877#235238#0" expanded="false" />
+            <element signature="e#235305#236217#0" expanded="false" />
+            <element signature="e#236281#236520#0" expanded="false" />
+            <element signature="e#236585#236855#0" expanded="false" />
+            <element signature="e#236931#238590#0" expanded="false" />
+            <element signature="e#238635#238888#0" expanded="false" />
+            <element signature="e#240957#240986#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.html" />
+    <entry file="file://$PROJECT_DIR$/project.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.html" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1581">
+          <caret line="15" column="11" lean-forward="true" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="53" lean-forward="true" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/resource.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GameScene2.js" />
+    <entry file="file://$PROJECT_DIR$/src/Candy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="8" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="21" lean-forward="false" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="6" lean-forward="false" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GameUi.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1403">
+          <caret line="61" column="4" lean-forward="false" selection-start-line="61" selection-start-column="4" selection-end-line="61" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Storage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="4" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Constant.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="41" lean-forward="true" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GameScene.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="227" column="0" lean-forward="true" selection-start-line="226" selection-start-column="6" selection-end-line="227" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cocos2d-js-v3.13.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#49#0" expanded="false" />
+            <element signature="e#220588#221029#0" expanded="false" />
+            <element signature="e#221076#221555#0" expanded="false" />
+            <element signature="e#221803#222607#0" expanded="false" />
+            <element signature="e#222650#222704#0" expanded="false" />
+            <element signature="e#222753#223484#0" expanded="false" />
+            <element signature="e#223545#224167#0" expanded="false" />
+            <element signature="e#224226#225199#0" expanded="false" />
+            <element signature="e#225248#225999#0" expanded="false" />
+            <element signature="e#226073#226566#0" expanded="false" />
+            <element signature="e#226633#227125#0" expanded="false" />
+            <element signature="e#227184#227745#0" expanded="false" />
+            <element signature="e#227803#227874#0" expanded="false" />
+            <element signature="e#227922#229588#0" expanded="false" />
+            <element signature="e#229629#230924#0" expanded="false" />
+            <element signature="e#230966#231978#0" expanded="false" />
+            <element signature="e#232034#233833#0" expanded="false" />
+            <element signature="e#233877#235238#0" expanded="false" />
+            <element signature="e#235305#236217#0" expanded="false" />
+            <element signature="e#236281#236520#0" expanded="false" />
+            <element signature="e#236585#236855#0" expanded="false" />
+            <element signature="e#236931#238590#0" expanded="false" />
+            <element signature="e#238635#238888#0" expanded="false" />
+            <element signature="e#240957#240986#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

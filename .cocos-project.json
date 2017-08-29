@@ -1,0 +1,18 @@
+{
+	"project_type": "js",
+	"showFPS" : true,
+	"engineDir":"",
+    "modules" : ["cocos2d"],
+	
+    "debugMode"     : 1,
+    "frameRate"     : 60,
+    "id"            : "gameCanvas",
+    "renderMode"    : 1,
+    "jsList"        : ["res/resource.js",
+                        "src/Constant.js",
+                        "src/Candy.js",
+                        "src/GameScene.js",
+      "src/GameUi.js",
+      "src/Storage.js"
+    ]
+}
